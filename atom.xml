@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[nerdyglass.es | tech enthusiasts | lifestyle hackers]]></title>
+  <link href="http://nerdyglass.es/atom.xml" rel="self"/>
+  <link href="http://nerdyglass.es/"/>
+  <updated>2013-04-30T22:25:37+02:00</updated>
+  <id>http://nerdyglass.es/</id>
+  <author>
+    <name><![CDATA[Christian Gambardella]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopost]]></title>
+    <link href="http://nerdyglass.es/blog/2013/04/octopost/"/>
+    <updated>2013-04-30T22:07:00+02:00</updated>
+    <id>http://nerdyglass.es/blog/2013/04/octopost</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
